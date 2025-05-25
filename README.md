@@ -3,6 +3,9 @@
 Welcome to my GitHub! <br>
 I'm an aspiring Software Developer and a pre-final year B.Tech student in Information Science Engineering , with a deep passion for AI, web development, and exploring the limitless possibilities of technology. As a curious learner and hands-on creator, I thrive on turning innovative ideas into reality. Beyond coding, I’m a fierce and determined individual who believes in breaking barriers and paving the way for others. Excited to connect, learn, and grow while making my mark in the tech world!
 
+![Girl Coding](./path-to-your-image.png)
+
+
 ## 🔧 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
