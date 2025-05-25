@@ -31,13 +31,6 @@ Hi there! I’m a third-year B.Tech in Information Science Engineering student w
 - 📧 Email: [tsanjum84@gmail.com](mailto:tsanjum84@gmail.com)
 - 💼 LinkedIn: [TS Anjum Kausar](https://www.linkedin.com/in/ts-anjum-kausar-303b49270/)
 
-## 📈 GitHub Stats
-
-![Anjum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsanjumkausar&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsanjumkausar&layout=compact&theme=radical)
-
----
 
 _Thanks for visiting my profile! Let's build something amazing together._ 🚀
 
