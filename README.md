@@ -1,16 +1,10 @@
 # 👋 Hi, I'm TS Anjum Kausar
 
-Welcome to my GitHub! I'm an aspiring software developer and a third-year B.Tech student in Information Science Engineering.
+Welcome to my GitHub! I'm an aspiring Software Developer and a pre-final year B.Tech student in Information Science Engineering.
 
 ## 🚀 About Me
 
 Hi there! I’m a third-year B.Tech in Information Science Engineering student with a deep passion for AI, web development, and exploring the limitless possibilities of technology. As a curious learner and hands-on creator, I thrive on turning innovative ideas into reality. Beyond coding, I’m a fierce and determined individual who believes in breaking barriers and paving the way for others. Excited to connect, learn, and grow while making my mark in the tech world!
-
-## 🌱 Currently Learning
-
-- Deepening my skills in React and Node.js
-- Exploring data structures and algorithms
-- Diving into AI and machine learning concepts
 
 ## 🔧 Tech Stack
 
