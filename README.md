@@ -16,7 +16,7 @@ I'm an aspiring Software Developer and a Final year B.Tech student in Informatio
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-![Girl Coding](./meme.png)
+![Girl Coding](./meme1.png)
 
 ## 💬 Let's Connect!
 
