@@ -34,6 +34,7 @@ I'm an aspiring Software Developer and a Final year B.Tech student in Informatio
 ![Girl Coding](./meme1.png)
 
 
+![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/d1774ee3-bae4-4ffa-9ca5-691f3de56079)
 
 
 _Thanks for visiting my profile! Let's build something amazing together._ 🚀
