@@ -6,6 +6,12 @@ I'm an aspiring Software Developer and a Final year B.Tech student in Informatio
 
 - 📧 Email: [tsanjum84@gmail.com](mailto:tsanjum84@gmail.com)
 - 💼 LinkedIn: [TS Anjum Kausar](https://www.linkedin.com/in/ts-anjum-kausar-303b49270/)
+
+- ## 💬 Let's Connect!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tsanjum84@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ts-anjum-kausar-303b49270/)
+
 ## 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
