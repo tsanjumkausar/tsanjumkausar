@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78DFF&center=true&vCenter=true&width=440&lines=Hi+I'm+T S ANJUM KAUSAR;;Aspiring+Software+Development+Engineer;AI+Enthusiast+%7C+Creative+Builder" />
+</p>
+
 # 👋 Hi, I'm T S Anjum Kausar
 
 Welcome to my GitHub! <br>
