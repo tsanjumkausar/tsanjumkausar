@@ -35,7 +35,7 @@ I'm an aspiring Software Development Engineer and a final-year B.Tech student in
 
 
 
-![Girl Coding](./meme1.png)
+![Girl Coding](./aiimg.png)
 
 
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/d1774ee3-bae4-4ffa-9ca5-691f3de56079)
